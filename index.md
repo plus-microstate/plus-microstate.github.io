@@ -1,16 +1,5 @@
 ## About +microstate
 
-## Citing the toolbox
-If you use the +microstate toolbox in your analysis, please cite the toolbox paper (reference given below) and include the URL to the toolbox webpage. 
-
-**Example citation**: 
-
-Microstate segmentation, analysis, and visualisation used the +microstate toolbox for brain microstate analysis in sensor and cortical EEG/MEG (Tait and Zhang (2021); [plus-microstate.github.io](http://plus-microstate.github.io)). 
-
-**Reference**:
-
-Tait and Zhang (2021), _+microstate: A MATLAB toolbox for brain microstate analysis in sensor and cortical EEG/MEG_, Submitted to bioRxiv
-
 ## Download and Installation
 
 The easiest way to download the toolbox is to click the following link: 
@@ -30,6 +19,17 @@ You can check that the toolbox is properly installed by typing
 microstate.functions.toolbox_path
 ```
 in the MATLAB console. If installed correctly, this command returns a string containing the directory with the +microstate toolbox. Otherwise, you will receive an error.
+
+## Citing the toolbox
+If you use the +microstate toolbox in your analysis, please cite the toolbox paper (reference given below) and include the URL to the toolbox webpage. 
+
+**Example citation**: 
+
+Microstate segmentation, analysis, and visualisation used the +microstate toolbox for brain microstate analysis in sensor and cortical EEG/MEG (Tait and Zhang (2021); [plus-microstate.github.io](http://plus-microstate.github.io)). 
+
+**Reference**:
+
+Tait and Zhang (2021), _+microstate: A MATLAB toolbox for brain microstate analysis in sensor and cortical EEG/MEG_, Submitted to bioRxiv
 
 ## Getting started
 
