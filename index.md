@@ -36,7 +36,6 @@ For detailed information on the methods implemented in +microstate, please refer
 - [Our original paper](https://doi.org/10.1101/2021.03.25.436979) describing the generalised k-means algorithm. 
 - [Toolbox manuscript](https://doi.org/10.1101/2021.07.13.452193)
 - [Wiki pages](add link)
-- [Webpage](add link) describing the generalised k-means algorithm
 
 ## Citing the toolbox
 If you use the +microstate toolbox in your analysis, please cite the toolbox paper (reference given below) and include the URL to the toolbox webpage. 
