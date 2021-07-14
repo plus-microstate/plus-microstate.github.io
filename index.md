@@ -1,4 +1,4 @@
-###
+###.    
 ## About +microstate
 
 +microstate is a MATLAB toolbox for performing microstate analysis in sensor- or source-reconstructed EEG or MEG data. +microstate can be used for individual- or group-level analyses, and applied to both resting-state or task-evoked data. As well as microstate analysis, +microstate includes functions for calculating microstate statistics and microstate-segmented functional connectivity, visualisation, and simulation of data. Basic preprocessing is also available in the toolbox, and for more advanced preprocessing +microstate integrates with a number of pre-exisiting toolboxes for M/EEG processing and analysis. 
