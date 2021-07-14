@@ -45,9 +45,9 @@ Tait and Zhang (2021), _+microstate: A MATLAB toolbox for brain microstate analy
 
 If you encounter and issues or bugs, please contact us via one of the following means: 
 - [GitHub Issue Tracker](https://github.com/plus-microstate/toolbox/issues)
-- [Email](mailto:meeg.plus.microstates@gmail.com)
+- [Email](mailto:l.tait@bham.ac.uk)
 
-For queries about use of the toolbox, feedback, suggestions, or interest in collaboration, please contact [Luke Tait via email](mailto:meeg.plus.microstates@gmail.com). There is additionally an informal mailing list, where we will occasionally send out information about toolbox updates or relevant publications. If you are interested in joining this mailing list please use the link above to contact Luke Tait via email. 
+For queries about use of the toolbox, feedback, suggestions, or interest in collaboration, please contact [Luke Tait via email](mailto:l.tait@bham.ac.uk). There is additionally an informal mailing list, where we will occasionally send out information about toolbox updates or relevant publications. If you are interested in joining this mailing list please use the link above to contact Luke Tait via email. 
 
 ## Publications
 
