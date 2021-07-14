@@ -5,7 +5,7 @@ If you use the +microstate toolbox in your analysis, please cite the following r
 
 **Example citation**: 
 
-Microstate segmentation, analysis, and visualisation used the +microstate toolbox for M/EEG cortical microstates (Tait and Zhang (2021); [plus-microstate.github.io](http://plus-microstate.github.io)). 
+Microstate segmentation, analysis, and visualisation used the +microstate toolbox for brain microstate analysis in sensor and cortical EEG/MEG (Tait and Zhang (2021); [plus-microstate.github.io](http://plus-microstate.github.io)). 
 
 **Reference**:
 
