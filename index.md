@@ -9,7 +9,7 @@ Microstate segmentation, analysis, and visualisation used the +microstate toolbo
 
 **Reference**:
 
-Tait and Zhang (2021), Submitted to bioRxiv
+Tait and Zhang (2021), _+microstate: A MATLAB toolbox for brain microstate analysis in sensor and cortical EEG/MEG_, Submitted to bioRxiv
 
 
 ## Download
