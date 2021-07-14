@@ -179,3 +179,36 @@
       <td>Calculate centroid maps given data and microstate labels  </td>     
   </tbody>
 </table>
+
+**Statistics and visualisation**
+
+<table>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>networks_wpli</td>
+      <td>Calculate microstate segmented functional connectivity </td>
+    <tr>
+      <td>plot</td>
+      <td>Visualise properties of the data and microstates </td> 
+    </tr>
+    <tr>
+    <td>stats_all</td>
+      <td>Calculate all microstate statistics </td> 
+    </tr>
+    <td>stats_autoinformation</td>
+      <td>Calculate autoinformation of microstate sequence  </td> 
+    </tr>
+    <td>stats_complexity</td>
+      <td>Calculate microstate transition complexity </td> 
+    </tr>
+    <td>stats_coverage</td>
+      <td>Calculate coverage of microstates</td>     
+  </tbody>
+</table>
