@@ -17,7 +17,7 @@ You can check that the toolbox is properly installed by typing
 ```markdown
 microstate.functions.toolbox_path
 ```
-in the MATLAB console. This command returns a string containing the directory with the +microstate toolbox. 
+in the MATLAB console. If installed correctly, this command returns a string containing the directory with the +microstate toolbox. Otherwise, you will receive an error.
 
 ## Getting started
 ## Citing the toolbox
