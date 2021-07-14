@@ -208,7 +208,41 @@
     <td>stats_complexity</td>
       <td>Calculate microstate transition complexity </td> 
     </tr>
+    <tr>
     <td>stats_coverage</td>
-      <td>Calculate coverage of microstates</td>     
+      <td>Calculate coverage of microstates </td> 
+    </tr>
+    <tr>
+    <td>stats_duration</td>
+      <td>Calculate durations of microstates </td> 
+    </tr>
+    <tr>
+    <td>stats_gev</td>
+      <td>Calculate GEV of microstates </td> 
+    </tr>
+    <tr>
+    <td>stats_gfp_peaksfreq</td>
+      <td>Calculate number of GFP peaks per second </td> 
+    </tr>
+    <tr>
+    <td>stats_hurst</td>
+      <td>Calculate Hurst exponent of microstate sequences </td> 
+    </tr>
+    <tr>
+    <td>stats_markov</td>
+      <td>Calculate Markov matrix and Markov statistics </td> 
+    </tr>
+    <tr>
+    <td>stats_mututalinformation</td>
+      <td>Calculate mutual information between microstate sequence and another sequence (2nd input) </td> 
+    </tr>
+    <tr>
+    <td>stats_occurrence</td>
+      <td>Calculate number of occurrences of a microstate per second </td> 
+    </tr>
+    <tr>
+    <td>stats_syntax</td>
+      <td>Calculate syntax matrix </td> 
+    </tr>
   </tbody>
 </table>
