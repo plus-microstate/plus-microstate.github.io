@@ -1,5 +1,4 @@
-## About +microstate
-
+### About +microstate
 ### Documentation
 ### Citing the toolbox
 ### Download
