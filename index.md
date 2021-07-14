@@ -27,7 +27,7 @@ For your first microstate analysis using +microstate, we recommend working throu
 
 For extra help, you can refer to the following resources: 
 - [Toolbox manuscript](https://doi.org/10.1101/2021.07.13.452193)
-- [Wiki pages](add link)
+- [Wiki pages](https://github.com/plus-microstate/toolbox/wiki)
 - Descriptions of the [microstate.individual](https://plus-microstate.github.io/individual) and [microstate.cohort](https://plus-microstate.github.io/cohort) objects. These objects are the basic building blocks of analysis in +microstate.
 
 ## Methdological details
@@ -35,7 +35,7 @@ For extra help, you can refer to the following resources:
 For detailed information on the methods implemented in +microstate, please refer to the following resources
 - [Our original paper](https://doi.org/10.1101/2021.03.25.436979) describing the generalised k-means algorithm. 
 - [Toolbox manuscript](https://doi.org/10.1101/2021.07.13.452193)
-- [Wiki pages](add link)
+- [Wiki pages](https://github.com/plus-microstate/toolbox/wiki)
 
 ## Citing the toolbox
 If you use the +microstate toolbox in your analysis, please cite the toolbox paper (reference given below) and include the URL to the toolbox webpage. 
