@@ -1,5 +1,13 @@
 # The _microstate.individual_ object
 
+The _microstate.individual_ object is used to store and analyse a single MEG/EEG/source-space data set. This is in contrast to the [microstate.cohort](https://plus-microstate.github.io/cohort) object, which stores multiple data sets (e.g. multiple participants, trials, or scans). 
+
+An empty _microstate.individual_ object can be called using the command 
+```
+ms = microstate.individual ; 
+```
+where `ms` is the _microstate.individual_ object. Data can then be added to this object using the methods under the **Importing/exporting data** section below. The methods listed below demonstrate options for preprocessing, analysing, and visualising the data in +microstate.   
+
 ### Properties
 
 <table>
