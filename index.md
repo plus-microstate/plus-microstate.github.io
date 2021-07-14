@@ -28,7 +28,7 @@ For your first microstate analysis using +microstate, we recommend working throu
 For extra help, you can refer to the following resources: 
 - [Toolbox manuscript](add link)
 - [Wiki pages](add link)
-- Lists of properties and methods for the [microstate.individual](add link) and [microstate.cohort](add link) objects. 
+- Lists of properties and methods for the [microstate.individual](https://plus-microstate.github.io/individual) and [microstate.cohort](add link) objects. 
 
 ## Methdological details
 
