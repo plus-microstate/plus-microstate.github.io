@@ -72,10 +72,6 @@
       <td>Add data to empty microstate.individual object. </td>  
     </tr>
     <tr>
-      <td>define_trials</td>
-      <td>Segment a single dataset into trials based on either a fixed length or stimulus times. </td> 
-    </tr>
-    <tr>
       <td>export_struct</td>
       <td>Export microstate.individual object's properties to a MATLAB structure.</td> 
     </tr>
@@ -110,3 +106,40 @@
   </tbody>
 </table>
 
+**Preprocessing data**
+
+<table>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>define_trials</td>
+      <td>Segment a single dataset into trials based on either a fixed length or stimulus times. </td> 
+    </tr>
+    <tr>
+    <td>preprocess</td>
+      <td>Wrapper for a default preprocessing pipeline. </td> 
+    </tr>
+    <td>preprocess_ampenv</td>
+      <td>Calculate amplitude envelope of data. </td> 
+    </tr>
+    <td>preprocess_filter</td>
+      <td>Bandpass or bandstop filter data. </td> 
+    </tr>
+    <td>preprocess_orthogonalize</td>
+      <td>Orthogonalize time courses. </td> 
+    </tr>
+    <td>preprocess_rereference</td>
+      <td>Re-reference data to average (EEG only). </td> 
+    </tr>
+    <td>preprocess_resample</td>
+      <td>Resample data. </td> 
+    </tr>
+    
+  </tbody>
+</table>
