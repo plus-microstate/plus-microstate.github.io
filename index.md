@@ -9,9 +9,15 @@ Alternatively, the toolbox can be downloaded from [the toolbox GitHub repository
 
 To install the toolbox, unzip the downloaded folder (toolbox-master), then open MATLAB and enter 
 ```markdown
-addpath('~/Downloads/toolbox-master')
+addpath('PATH/toolbox-master')
 ```
-in the MATLAB console (you may need to edit this string if you moved the downloaded folder from the Downloads directory). You must either do this each time you open MATLAB, or to permenantly add +microstate to the path you can add toolbox-master to the path using MATLAB's `pathtool` function. 
+in the MATLAB console (here `PATH` is the location in which you saved the toolbox-master directory, usually `~/Downloads`). You must either do this each time you open MATLAB, or to permenantly add +microstate to the path you can add toolbox-master to the path using MATLAB's `pathtool` function. 
+
+You can check that the toolbox is properly installed by typing 
+```markdown
+microstate.functions.toolbox_path
+```
+in the MATLAB console. This command returns a string containing the directory with the +microstate toolbox. 
 
 ## Getting started
 ## Citing the toolbox
