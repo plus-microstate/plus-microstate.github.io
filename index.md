@@ -1,15 +1,15 @@
-## About +microstate
-## Documentation
-## Citing the toolbox
+### About +microstate
+### Documentation
+### Citing the toolbox
 If you use the +microstate toolbox in your analysis, please cite the following reference and include a link to the toolbox. 
 
-### Example citation: 
+**Example citation**: 
 
 Microstate segmentation, analysis, and visualisation used the +microstate toolbox for M/EEG cortical microstates (Tait and Zhang (2021); [plus-microstate.github.io](http://plus-microstate.github.io)). 
 
-### Reference
+**Reference**:
 
-Tait and Zhang (2021)
+Tait and Zhang (2021), Submitted to bioRxiv
 
 
 ## Download
