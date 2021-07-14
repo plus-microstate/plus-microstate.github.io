@@ -167,22 +167,27 @@
     <tr>
       <td>calculate_gfp</td>
       <td>Calculate GFP of time series  </td>
+    </tr>
     <tr>
       <td>cluster_alignmaps</td>
       <td>Assign a microstate class to each time point, building a discrete microstate time series. </td> 
     </tr>
     <tr>
-    <td>cluster_estimatemaps</td>
+      <td>cluster_estimatemaps</td>
       <td>Cluster to calculate a specified number of microstate maps </td> 
     </tr>
-    <td>cluster_get_gfppeaks</td>
+    <tr>
+      <td>cluster_get_gfppeaks</td>
       <td>Extract GFP peaks of the data.  </td> 
     </tr>
-    <td>cluster_koptimum</td>
+    <tr>
+      <td>cluster_koptimum</td>
       <td>Calculate optimum number of microstate classes </td> 
     </tr>
-    <td>cluster_label2maps</td>
-      <td>Calculate centroid maps given data and microstate labels  </td>     
+    <tr>
+      <td>cluster_label2maps</td>
+      <td>Calculate centroid maps given data and microstate labels  </td>
+    </tr>
   </tbody>
 </table>
 
