@@ -22,6 +22,15 @@ microstate.functions.toolbox_path
 ```
 in the MATLAB console. If installed correctly, this command returns a string containing the directory with the +microstate toolbox. Otherwise, you will receive an error.
 
+## Getting started
+
+For your first microstate analysis using +microstate, we recommend working through the tutorials. The toolbox-master folder contains a subfolder called "examples", which contains MATLAB Live Scripts to perform the four example analyses described in the [toolbox manuscript](add link). We recommend working through each example in order, as these analyses increase in complexity and assume knowledge from previous examples. 
+
+For extra help, you can refer to the following resources: 
+- [Toolbox manuscript](add link)
+- [Wiki pages](add link)
+- Lists of properties and methods for the [microstate.individual](add link) and [microstate.cohort](add link) objects. 
+
 ## Citing the toolbox
 If you use the +microstate toolbox in your analysis, please cite the toolbox paper (reference given below) and include the URL to the toolbox webpage. 
 
@@ -33,36 +42,8 @@ Microstate segmentation, analysis, and visualisation used the +microstate toolbo
 
 Tait and Zhang (2021), _+microstate: A MATLAB toolbox for brain microstate analysis in sensor and cortical EEG/MEG_, Submitted to bioRxiv
 
-## Getting started
-
-
 ## Bug reports and contact
 ## Publications
 
 
 
-You can use the [editor on GitHub](https://github.com/plus-microstate/toolbox_download/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
