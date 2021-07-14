@@ -97,15 +97,15 @@
     </tr>
     <tr>
       <td>import_spm_meeg</td>
-      <td>1 x number of samples array specifying which samples are included from the original dataset</td>
+      <td>Function to import SPM M/EEG objects.</td>
     </tr>          
     <tr>
       <td>import_spm_nifti</td>
-      <td>Structure containing microstate statistics</td>  
+      <td>Function to import NiFTi images.</td>  
     </tr>          
     <tr>
       <td>import_struct</td>
-      <td>1 x number of samples array containing the time axis</td>
+      <td>Imports data saved using individual.export_struct.</td>
     </tr>
   </tbody>
 </table>
