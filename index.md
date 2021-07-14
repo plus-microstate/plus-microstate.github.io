@@ -3,7 +3,7 @@
 
 The easiest way to download the toolbox is to click the following link: 
 
-[**Download +microstate**](https://github.com/plus-microstate/toolbox/archive/refs/heads/master.zip)
+### [**Download +microstate**](https://github.com/plus-microstate/toolbox/archive/refs/heads/master.zip)
 
 Alternatively, the toolbox can be downloaded from [the toolbox GitHub repository](https://github.com/plus-microstate/toolbox). MATLAB must be installed to run +microstate, which has been tested on MATLAB R2017b and higher. Additionally, the following MATLAB toolboxes are required: [Statistics and Machine Learning](https://www.mathworks.com/products/statistics.html), [Signal Processing](https://www.mathworks.com/products/signal.html), and [Wavelet](https://www.mathworks.com/products/wavelet.html). 
 
