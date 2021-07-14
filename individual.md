@@ -205,54 +205,57 @@
     <tr>
       <td>networks_wpli</td>
       <td>Calculate microstate segmented functional connectivity </td>
+    </tr>
     <tr>
       <td>plot</td>
       <td>Visualise properties of the data and microstates </td> 
     </tr>
     <tr>
-    <td>stats_all</td>
+      <td>stats_all</td>
       <td>Calculate all microstate statistics </td> 
     </tr>
-    <td>stats_autoinformation</td>
+    <tr>
+      <td>stats_autoinformation</td>
       <td>Calculate autoinformation of microstate sequence  </td> 
     </tr>
-    <td>stats_complexity</td>
+    <tr>
+      <td>stats_complexity</td>
       <td>Calculate microstate transition complexity </td> 
     </tr>
     <tr>
-    <td>stats_coverage</td>
+      <td>stats_coverage</td>
       <td>Calculate coverage of microstates </td> 
     </tr>
     <tr>
-    <td>stats_duration</td>
+      <td>stats_duration</td>
       <td>Calculate durations of microstates </td> 
     </tr>
     <tr>
-    <td>stats_gev</td>
+      <td>stats_gev</td>
       <td>Calculate GEV of microstates </td> 
     </tr>
     <tr>
-    <td>stats_gfp_peaksfreq</td>
+      <td>stats_gfp_peaksfreq</td>
       <td>Calculate number of GFP peaks per second </td> 
     </tr>
     <tr>
-    <td>stats_hurst</td>
+      <td>stats_hurst</td>
       <td>Calculate Hurst exponent of microstate sequences </td> 
     </tr>
     <tr>
-    <td>stats_markov</td>
+      <td>stats_markov</td>
       <td>Calculate Markov matrix and Markov statistics </td> 
     </tr>
     <tr>
-    <td>stats_mututalinformation</td>
+      <td>stats_mututalinformation</td>
       <td>Calculate mutual information between microstate sequence and another sequence (2nd input) </td> 
     </tr>
     <tr>
-    <td>stats_occurrence</td>
+      <td>stats_occurrence</td>
       <td>Calculate number of occurrences of a microstate per second </td> 
     </tr>
     <tr>
-    <td>stats_syntax</td>
+      <td>stats_syntax</td>
       <td>Calculate syntax matrix </td> 
     </tr>
   </tbody>
