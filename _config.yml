@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: +microstate toolbox
 description: A MATLAB toolbox for MEG and EEG microstate analysis. 
+github:
+  repository_url: http://github.com/plus-microstate/toolbox
