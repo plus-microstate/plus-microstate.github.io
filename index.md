@@ -23,7 +23,7 @@ in the MATLAB console. If installed correctly, this command returns a string con
 
 ## Getting started
 
-For your first microstate analysis using +microstate, we recommend working through the tutorials. The toolbox-master folder contains a subfolder called "examples", which contains MATLAB Live Scripts to perform the four example analyses described in the [toolbox manuscript](add link). We recommend working through each example in order, as these analyses increase in complexity and assume knowledge from previous examples. 
+For your first microstate analysis using +microstate, we recommend working through the tutorials. The toolbox-master folder contains a subfolder called "examples", which contains MATLAB Live Scripts to perform the four example analyses described in the [toolbox manuscript](add link). Alternatively, you can work through the tutorials at the [tutorial webpage](https://plus-microstate.github.io/tutorials). We recommend working through each tutorial in order, as these analyses increase in complexity and assume knowledge from previous examples. 
 
 For extra help, you can refer to the following resources: 
 - [Toolbox manuscript](https://doi.org/10.1101/2021.07.13.452193)
