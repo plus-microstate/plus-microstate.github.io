@@ -31,6 +31,14 @@ For extra help, you can refer to the following resources:
 - [Wiki pages](add link)
 - Lists of properties and methods for the [microstate.individual](add link) and [microstate.cohort](add link) objects. 
 
+## Methdological details
+
+For detailed information on the methods implemented in +microstate, please refer to the following resources
+- [Our original paper](https://doi.org/10.1101/2021.03.25.436979) describing the generalised k-means algorithm. 
+- [Toolbox manuscript](add link)
+- [Wiki pages](add link)
+- [Webpage](add link) describing the generalised k-means algorithm
+
 ## Citing the toolbox
 If you use the +microstate toolbox in your analysis, please cite the toolbox paper (reference given below) and include the URL to the toolbox webpage. 
 
@@ -43,7 +51,17 @@ Microstate segmentation, analysis, and visualisation used the +microstate toolbo
 Tait and Zhang (2021), _+microstate: A MATLAB toolbox for brain microstate analysis in sensor and cortical EEG/MEG_, Submitted to bioRxiv
 
 ## Bug reports and contact
+
+If you encounter and issues or bugs, please contact us via one of the following means: 
+- [GitHub Issue Tracker](https://github.com/plus-microstate/toolbox/issues)
+- [Email](mailto:meeg.plus.microstates@gmail.com)
+
+For queries about use of the toolbox, feedback, suggestions, or interest in collaboration, please contact [Luke Tait via email](mailto:meeg.plus.microstates@gmail.com). There is additionally an informal mailing list, where we will occasionally send out information about toolbox updates or relevant publications. If you are interested in joining this mailing list please use the link above to contact Luke Tait via email. 
+
 ## Publications
 
+- Tait and Zhang (2021), _MEG cortical microstates: spatiotemporal characteristics, dynamic functional connectivity and stimulus-evoked responses_, bioRxiv 2021.03.25.436979. doi: [10.1101/2021.03.25.436979](https://doi.org/10.1101/2021.03.25.436979). Preprint describing the methods underpinning the toolbox. 
+- Tait and Zhang (2021), _+microstate: A MATLAB toolbox for brain microstate analysis in sensor and cortical EEG/MEG_, Submitted to bioRxiv. Preprint describing the format of the toolbox and tutorials. 
+- Tait et al. (2020) _EEG microstate complexity for aiding early diagnosis of Alzheimer’s disease_, Sci Rep 10:17627. doi: [10.1038/s41598-020-74790-7](https://doi.org/10.1038/s41598-020-74790-7). Early publication using many of the codes which later became the +microstate toolbox to perform EEG microstate analysis in patients with Alzheimer's disease. 
 
 
