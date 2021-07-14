@@ -120,27 +120,33 @@
     <tr>
       <td>add_bad_samples</td>
       <td>Specify bad samples in microstate.individual object. </td>
+    </tr>
     <tr>
       <td>define_trials</td>
       <td>Segment a single dataset into trials based on either a fixed length or stimulus times. </td> 
     </tr>
     <tr>
-    <td>preprocess</td>
+      <td>preprocess</td>
       <td>Wrapper for a default preprocessing pipeline. </td> 
     </tr>
-    <td>preprocess_ampenv</td>
+    <tr>
+      <td>preprocess_ampenv</td>
       <td>Calculate amplitude envelope of data. </td> 
     </tr>
-    <td>preprocess_filter</td>
+    <tr>
+      <td>preprocess_filter</td>
       <td>Bandpass or bandstop filter data. </td> 
     </tr>
-    <td>preprocess_orthogonalize</td>
+    <tr>
+      <td>preprocess_orthogonalize</td>
       <td>Orthogonalize time courses. </td> 
     </tr>
-    <td>preprocess_rereference</td>
+    <tr>
+      <td>preprocess_rereference</td>
       <td>Re-reference data to average (EEG only). </td> 
     </tr>
-    <td>preprocess_resample</td>
+    <tr>
+      <td>preprocess_resample</td>
       <td>Resample data. </td> 
     </tr>
     
