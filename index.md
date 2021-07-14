@@ -1,7 +1,7 @@
 ## About +microstate
 ## Documentation
 ## Citing the toolbox
-If you use the +microstate toolbox in your analysis, please cite the following reference and include a link to the toolbox. 
+If you use the +microstate toolbox in your analysis, please cite the toolbox paper (reference given below) and include the URL to the toolbox webpage. 
 
 **Example citation**: 
 
