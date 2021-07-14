@@ -14,9 +14,11 @@ Tait and Zhang (2021), _+microstate: A MATLAB toolbox for brain microstate analy
 
 ## Download
 
-The toolbox can be downloaded from [the toolbox GitHub repository](https://github.com/plus-microstate/toolbox), or by clicking the following URL. 
+The easiest way to download the toolbox is to click the following link: 
 
-[Download +microstate](https://github.com/plus-microstate/toolbox/archive/refs/heads/master.zip)
+[**Download +microstate**](https://github.com/plus-microstate/toolbox/archive/refs/heads/master.zip)
+
+Alternatively, the toolbox can be downloaded from [the toolbox GitHub repository](https://github.com/plus-microstate/toolbox). 
 
 ## Bug reports and contact
 ## Publications
