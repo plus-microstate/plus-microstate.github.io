@@ -1,5 +1,13 @@
 # The _microstate.cohort_ object
 
+The _microstate.cohort_ object contains multiple data sets (e.g. multiple participants, scans, or trials in a task-based experiment), in contrast to the [microstate.individual](https://plus-microstate.github.io/individual) object which stores a single scan. In fact, the _microstate.cohort_ object contains a single _microstate.individual_ object per participant/trial/scan (hereon referred to as "individuals"), as well as information such as the condition of each individual and group-level microstate maps and statistics.
+
+To create a _microstate.cohort_ object, type
+```
+coh = microstate.cohort
+```
+where `coh` is the _microstate.cohort_ object. Individuals can be added to this object using the methods under the **Importing/exporting data** section below. The methods listed below demonstrate options for preprocessing, analysing, and visualising the data at the group-level in +microstate.
+
 ### Properties
 
 <table>
