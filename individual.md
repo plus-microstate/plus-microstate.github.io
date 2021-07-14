@@ -118,6 +118,9 @@
   
   <tbody>
     <tr>
+      <td>add_bad_samples</td>
+      <td>Specify bad samples in microstate.individual object. </td>
+    <tr>
       <td>define_trials</td>
       <td>Segment a single dataset into trials based on either a fixed length or stimulus times. </td> 
     </tr>
