@@ -21,7 +21,11 @@ microstate.functions.toolbox_path
 ```
 in the MATLAB console. If installed correctly, this command returns a string containing the directory with the +microstate toolbox. Otherwise, you will receive an error.
 
-For instructions on downloading the tutorial data, please visit the [Download and Install Wiki Page](https://github.com/plus-microstate/toolbox/wiki/Download-and-Install). 
+The first time you run the toolbox, you need to install some additional files. This is done by typing
+```
+microstate.functions.install
+```
+This does not need to be run every time you use +microstate, but it is worth running occasionally since the command will additionally update the toolbox to the latest version if an older version is installed. 
 
 ## Getting started
 
