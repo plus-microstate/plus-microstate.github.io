@@ -21,6 +21,8 @@ microstate.functions.toolbox_path
 ```
 in the MATLAB console. If installed correctly, this command returns a string containing the directory with the +microstate toolbox. Otherwise, you will receive an error.
 
+For instructions on downloading the tutorial data, please visit the [Download and Install Wiki Page](https://github.com/plus-microstate/toolbox/wiki/Download-and-Install). 
+
 ## Getting started
 
 For your first microstate analysis using +microstate, we recommend working through the tutorials. The toolbox-master folder contains a subfolder called "examples", which contains MATLAB Live Scripts to perform the four example analyses described in the [toolbox manuscript](https://doi.org/10.1101/2021.07.13.452193). We recommend working through each tutorial in order, as these analyses increase in complexity and assume knowledge from previous examples. 
