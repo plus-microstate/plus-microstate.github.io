@@ -66,6 +66,6 @@ Toolbox paper describing the format of the toolbox and tutorials.
 - L. Tait et al. (2020) _EEG microstate complexity for aiding early diagnosis of Alzheimer’s disease_, Sci Rep 10:17627. doi: [10.1038/s41598-020-74790-7](https://doi.org/10.1038/s41598-020-74790-7). 
 Early publication using many of the codes which later became the +microstate toolbox to perform EEG microstate analysis in patients with Alzheimer's disease. 
 
-* Papers marked with an asterisk are not affiliated with the authors of +microstate. 
+\* Papers marked with an asterisk are not affiliated with the authors of +microstate. 
 
 
