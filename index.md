@@ -56,16 +56,18 @@ If you encounter and issues or bugs, please contact us via one of the following 
 For queries about use of the toolbox, feedback, suggestions, or interest in collaboration, please contact [Luke Tait via email](mailto:l.tait@bham.ac.uk). There is additionally an informal mailing list, where we will occasionally send out information about toolbox updates or relevant publications. If you are interested in joining this mailing list please use the link above to contact Luke Tait via email. 
 
 ## Publications
-- T. Wang et al. (2023), _Exploring the Role of Visual Guidance in Motor Imagery-Based Brain-Computer Interface: An EEG Microstate-Specific Functional Connectivity Study_, Bioengineering 10:281. doi: [10.3390/bioengineering10030281](https://doi.org/10.3390/bioengineering10030281). Used +microstate to differentiate EEG source-space microstates between motor execution and motor imagery.*
-- C. Zhang et al. (2022), _The temporal dynamics of Large-Scale brain network changes in disorders of consciousness: A Microstate-Based study_, CNS Neuroscience & Therapeutics 29(1):1-488. doi: [10.1111/cns.14003](https://doi.org/10.1111/cns.14003). Paper using +microstate to study EEG source-space microstates in patients with disorders of consciousness.*
-- R. Tamano et al. (2022), _Event-related microstate dynamics represents working memory performance_, NeuroImage 263:119669. doi: [10.1016/j.neuroimage.2022.119669](https://doi.org/10.1016/j.neuroimage.2022.119669). Used +microstate for statistical analysis of EEG microstates during working memory.* 
+- A. D'Andrea et al. (2024), _Mindfulness meditation styles differently modulate source-level MEG microstate dynamics and complexity_, Frontiers in Neuroscience 18:1295615. doi: [10.3389/fnins.2024.1295615](https://doi.org/10.3389/fnins.2024.1295615)
+- W. Duch et al. (2023), _Asymptotic Spatiotemporal Averaging of the Power of EEG Signals for Schizophrenia Diagnostics_, In Book: Neural Information Processing, Eds. B. Luo et al. pp 428-439. doi: [10.1007/978-981-99-8138-0_34](https://doi.org/10.1007/978-981-99-8138-0_34)
+- T. Wang et al. (2023), _Exploring the Role of Visual Guidance in Motor Imagery-Based Brain-Computer Interface: An EEG Microstate-Specific Functional Connectivity Study_, Bioengineering 10:281. doi: [10.3390/bioengineering10030281](https://doi.org/10.3390/bioengineering10030281)
+- C. Zhang et al. (2022), _The temporal dynamics of Large-Scale brain network changes in disorders of consciousness: A Microstate-Based study_, CNS Neuroscience & Therapeutics 29(1):1-488. doi: [10.1111/cns.14003](https://doi.org/10.1111/cns.14003)
+- R. Tamano et al. (2022), _Event-related microstate dynamics represents working memory performance_, NeuroImage 263:119669. doi: [10.1016/j.neuroimage.2022.119669](https://doi.org/10.1016/j.neuroimage.2022.119669)
 - L. Tait and J. Zhang (2022), _MEG cortical microstates: spatiotemporal characteristics, dynamic functional connectivity and stimulus-evoked responses_, NeuroImage 251:119006. doi: [10.1016/j.neuroimage.2022.119006](https://doi.org/10.1016/j.neuroimage.2022.119006). 
-Paper describing the methods underpinning the toolbox. 
+Paper describing the methods underpinning the toolbox.* 
 - L. Tait and J. Zhang (2021), _+microstate: A MATLAB toolbox for brain microstate analysis in sensor and cortical EEG/MEG_, NeuroImage 258:119346. doi: [10.1016/j.neuroimage.2022.119346](https://doi.org/10.1016/j.neuroimage.2022.119346). 
-Toolbox paper describing the format of the toolbox and tutorials. 
+Toolbox paper describing the format of the toolbox and tutorials.*
 - L. Tait et al. (2020) _EEG microstate complexity for aiding early diagnosis of Alzheimer’s disease_, Sci Rep 10:17627. doi: [10.1038/s41598-020-74790-7](https://doi.org/10.1038/s41598-020-74790-7). 
-Early publication using many of the codes which later became the +microstate toolbox to perform EEG microstate analysis in patients with Alzheimer's disease. 
+Early publication using many of the codes which later became the +microstate toolbox to perform EEG microstate analysis in patients with Alzheimer's disease.*
 
-\* Papers marked with an asterisk are not affiliated with the authors of +microstate. 
+\* Papers marked with an asterisk are affiliated with the authors of +microstate. 
 
 
