@@ -55,7 +55,10 @@ If you encounter and issues or bugs, please contact us via one of the following 
 
 For queries about use of the toolbox, feedback, suggestions, or interest in collaboration, please contact [Luke Tait via email](mailto:l.tait@bham.ac.uk). There is additionally an informal mailing list, where we will occasionally send out information about toolbox updates or relevant publications. If you are interested in joining this mailing list please use the link above to contact Luke Tait via email. 
 
-## Publications
+## Publications using +microstate
+- M. Bertoli et al. (2025), _The aftermath of trauma on resting state source-level MEG microstate dynamics_, European Journal of Psychotraumatology 16(1):2520638. doi [10.1080/20008066.2025.2520638](https://doi.org/10.1080/20008066.2025.2520638)
+- X. Gao et al. (2025), _Specific endophenotypes in EEG microstates for methamphetamine use disorder_, Frontiers in Psychiatry 15. doi: [10.3389/fpsyt.2024.1513793](https://doi.org/10.3389/fpsyt.2024.1513793)
+- P. Tarailis et al. (2025), _Short-term and long-term test-retest reliability of memory, complexity, and randomness of EEG microstates sequence_, Research Square. doi: [10.21203/rs.3.rs-5875634/v1](https://doi.org/10.21203/rs.3.rs-5875634/v1)
 - A. D'Andrea et al. (2024), _Mindfulness meditation styles differently modulate source-level MEG microstate dynamics and complexity_, Frontiers in Neuroscience 18:1295615. doi: [10.3389/fnins.2024.1295615](https://doi.org/10.3389/fnins.2024.1295615)
 - W. Duch et al. (2023), _Asymptotic Spatiotemporal Averaging of the Power of EEG Signals for Schizophrenia Diagnostics_, In Book: Neural Information Processing, Eds. B. Luo et al. pp 428-439. doi: [10.1007/978-981-99-8138-0_34](https://doi.org/10.1007/978-981-99-8138-0_34)
 - T. Wang et al. (2023), _Exploring the Role of Visual Guidance in Motor Imagery-Based Brain-Computer Interface: An EEG Microstate-Specific Functional Connectivity Study_, Bioengineering 10:281. doi: [10.3390/bioengineering10030281](https://doi.org/10.3390/bioengineering10030281)
